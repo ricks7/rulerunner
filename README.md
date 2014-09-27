@@ -20,10 +20,15 @@ For the purposes of this demo, you don't need to provide any namespace for your 
  
 Example use of RuleRunner:
   root$ RuleRunner 100 50 30 50 60 20 5000
+  
   Rule RuleC passed.
+  
   Rule RuleB passed.
+  
   Rule RuleA passed.
+  
   ALL rules passed.
+  
   root$:
 
 Hints:
