@@ -27,4 +27,5 @@ Hints:
 If you need more than a total of 500 lines of code to implement this, you are thinking too hard or going overboard in some fashion. Likewise, if you need fewer than 100 lines you may not be using best practices. Don't, for example, go nuts and implement a Domain Specific Language for the rules. Keep it simple and direct, while following best practices as you see them.
 Good Luck!
 
+
 PS. Feel free to email either ricksoza@gmail.com if you have any questions about this spec or the system you are implementing.
