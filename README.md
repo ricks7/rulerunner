@@ -19,12 +19,12 @@ You may use any IDE, editor, compiler or combination you like, but all code must
 For the purposes of this demo, you don't need to provide any namespace for your classes, they may all go in the default package.
  
 Example use of RuleRunner:
-root$ RuleRunner 100 50 30 50 60 20 5000
-Rule RuleC passed.
-Rule RuleB passed.
-Rule RuleA passed.
-ALL rules passed.
-root$:
+  root$ RuleRunner 100 50 30 50 60 20 5000
+  Rule RuleC passed.
+  Rule RuleB passed.
+  Rule RuleA passed.
+  ALL rules passed.
+  root$:
 
 Hints:
 If you need more than a total of 500 lines of code to implement this, you are thinking too hard or going overboard in some fashion. Likewise, if you need fewer than 100 lines you may not be using best practices. Don't, for example, go nuts and implement a Domain Specific Language for the rules. Keep it simple and direct, while following best practices as you see them.
